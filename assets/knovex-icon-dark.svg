@@ -1,16 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Knovex icon — dark">
   <title>Knovex icon (dark)</title>
   <rect x="6" y="6" width="148" height="148" rx="36" fill="#1B2A33"/>
-  <g transform="translate(48,34)">
-    <rect x="0" y="82" width="64" height="17" rx="8.5" fill="#F3EEE7"/>
-    <rect x="6" y="61" width="52" height="16" rx="8" fill="#9DAAB3"/>
-    <rect x="11" y="41" width="42" height="15" rx="7.5" fill="#F3EEE7"/>
-    <rect x="16" y="22" width="32" height="14" rx="7" fill="#9DAAB3"/>
-    <rect x="21" y="4" width="22" height="13" rx="6.5" fill="#D98E5A"/>
-    <g fill="#D98E5A">
-      <rect x="30.5" y="-11" width="3" height="9" rx="1.5"/>
-      <rect x="14.6" y="-7.2" width="3" height="9" rx="1.5" transform="rotate(-38 16.1 -2.7)"/>
-      <rect x="46.4" y="-7.2" width="3" height="9" rx="1.5" transform="rotate(38 47.9 -2.7)"/>
-    </g>
+  <rect x="34" y="36" width="92" height="88" rx="16" fill="none" stroke="#F3EEE7" stroke-width="7"/>
+  <path d="M34 60 H126" stroke="#9DAAB3" stroke-width="7"/>
+  <circle cx="48" cy="48" r="4.5" fill="#D98E5A"/>
+  <g transform="translate(56,72)">
+    <rect x="0" y="30" width="48" height="11" rx="5.5" fill="#F3EEE7"/>
+    <rect x="6" y="13" width="36" height="11" rx="5.5" fill="#9DAAB3"/>
+    <rect x="12" y="-4" width="24" height="11" rx="5.5" fill="#D98E5A"/>
   </g>
 </svg>
