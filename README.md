@@ -67,7 +67,7 @@ The spec is open and the licence is **CC BY 4.0**. The `.udf` you make today sti
 
 ---
 
-## <img src="assets/knovex-icon.png" alt="Knovex" height="30" align="absmiddle" /> Knovex — then, the app
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/knovex-icon-dark.svg" /><img src="assets/knovex-icon-light.svg" alt="Knovex" height="28" align="absmiddle" /></picture> Knovex — then, the app
 
 [![Download](https://img.shields.io/badge/⬇_Download-Windows_·_macOS_·_Linux-C0703C?style=flat-square)](https://tailorgunjan93.github.io/knovex/)
 [![built on DOCNEST](https://img.shields.io/badge/built_on-DOCNEST-1B2A33?style=flat-square)](https://github.com/tailorgunjan93/docnest)
