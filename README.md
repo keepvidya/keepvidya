@@ -20,7 +20,7 @@
 [DOCNEST](#docnest--first-the-engine) ·
 [UDF](#-udf--the-format-you-own) ·
 [Knovex](#knovex--then-the-app) ·
-[DocNest .NET](#-docnest-net--the-engine-for-c) ·
+[DocNest .NET](#docnest-net--the-engine-for-c) ·
 [The platform](#the-platform--four-layers-one-foundation) ·
 [Writing](#-writing--the-blog)
 
@@ -87,7 +87,7 @@ It's a real desktop app — **Windows, macOS, Linux, auto-updating** — built o
 
 ---
 
-## 🟣 DocNest .NET — the engine, for C#
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/docnest-icon-dark.svg" /><img src="assets/docnest-icon-light.svg" alt="DocNest .NET" height="28" align="absmiddle" /></picture> DocNest .NET — the engine, for C#
 
 [![NuGet](https://img.shields.io/badge/NuGet-DocNest-1B2A33?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/GunjanTailor)
 [![.NET 8](https://img.shields.io/badge/.NET-8-C0703C?style=flat-square)](https://github.com/tailorgunjan93/docnest-net)
