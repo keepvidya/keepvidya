@@ -87,7 +87,7 @@ It's a real desktop app — **Windows, macOS, Linux, auto-updating** — built o
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/docnest-icon-dark.svg" /><img src="assets/docnest-icon-light.svg" alt="DocNest .NET" height="28" align="absmiddle" /></picture> DocNest .NET — the engine, for C#
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/docnest-net-icon-dark.svg" /><img src="assets/docnest-net-icon-light.svg" alt="DocNest .NET" height="28" align="absmiddle" /></picture> DocNest .NET — the engine, for C#
 
 [![NuGet](https://img.shields.io/badge/NuGet-DocNest-1B2A33?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/GunjanTailor)
 [![.NET 8](https://img.shields.io/badge/.NET-8-C0703C?style=flat-square)](https://github.com/tailorgunjan93/docnest-net)
