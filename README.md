@@ -34,7 +34,7 @@ Most AI reads your private documents on **someone else's computer**, charges you
 
 ---
 
-## <img src="assets/docnest-logo.svg" alt="DOCNEST" height="30" align="absmiddle" /> DOCNEST — first, the engine
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/docnest-icon-dark.svg" /><img src="assets/docnest-icon-light.svg" alt="DOCNEST" height="28" align="absmiddle" /></picture> DOCNEST — first, the engine
 
 [![PyPI](https://img.shields.io/pypi/v/docnest-ai?style=flat-square&color=C0703C&label=docnest-ai)](https://pypi.org/project/docnest-ai)
 [![MCP server](https://img.shields.io/badge/MCP-server-1B2A33?style=flat-square)](https://github.com/tailorgunjan93/docnest)
