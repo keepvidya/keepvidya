@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1140" width="900" height="1140" role="img" aria-label="Keepvidya local-first AI platform map: four capability layers on a local-first foundation">
+  <title>Keepvidya — local-first AI platform map</title>
+  <desc>Knowledge (DOCNEST) and Understanding (Knovex) are live; Agents (Keepvidya Flows) and Models (Keepvidya Core) are next; all on a local-first foundation.</desc>
+  <defs>
+    <style>
+      .ink{fill:#1B2A33;} .slate{fill:#33474F;} .s300{fill:#9DAAB3;} .cop{fill:#C0703C;}
+      .h{font-family:"Poppins","Segoe UI",system-ui,sans-serif;font-weight:600;}
+      .b{font-family:"Segoe UI",system-ui,sans-serif;font-weight:400;}
+      .k{font-family:"Segoe UI",system-ui,sans-serif;font-weight:700;letter-spacing:2.5px;}
+    </style>
+  </defs>
+  <rect width="900" height="1140" fill="#FBF8F3"/>
+  <g transform="translate(64,58)">
+    <g transform="translate(0,2)">
+      <rect x="14" y="60" width="56" height="15" rx="7.5" class="ink"/>
+      <rect x="19" y="42" width="46" height="14" rx="7" class="slate"/>
+      <rect x="24" y="25" width="36" height="13" rx="6.5" class="ink"/>
+      <rect x="29" y="9"  width="26" height="12" rx="6" class="slate"/>
+      <rect x="33" y="-6" width="18" height="11" rx="5.5" class="cop"/>
+    </g>
+    <text class="h" x="104" y="40" font-size="42" fill="#1B2A33" letter-spacing="5">KEEPVIDYA</text>
+    <text class="k" x="106" y="66" font-size="13" fill="#C0703C">LOCAL-FIRST&#160;&#160;AI&#160;&#160;PLATFORM</text>
+  </g>
+  <text class="h" x="64" y="190" font-size="26" fill="#1B2A33">Keep your knowledge — your AI, your agents,</text>
+  <text class="h" x="64" y="224" font-size="26" fill="#1B2A33">your models, on your <tspan fill="#C0703C">machine.</tspan></text>
+  <g opacity="0.62">
+    <rect x="64" y="266" width="772" height="118" rx="18" fill="#F3EFE9" stroke="#9DAAB3" stroke-width="2" stroke-dasharray="3 6"/>
+    <rect x="86" y="292" width="6" height="66" rx="3" class="s300"/>
+    <circle cx="128" cy="325" r="20" fill="none" stroke="#9DAAB3" stroke-width="2"/>
+    <text class="h" x="128" y="331" font-size="16" fill="#33474F" text-anchor="middle">04</text>
+    <text class="k" x="168" y="306" font-size="12" fill="#9DAAB3">MODELS</text>
+    <text class="h" x="168" y="334" font-size="22" fill="#1B2A33">Keepvidya Core</text>
+    <text class="b" x="168" y="360" font-size="15" fill="#5b6970">Small LLMs running on-device — no cloud required</text>
+    <rect x="700" y="310" width="104" height="30" rx="15" fill="none" stroke="#9DAAB3" stroke-width="1.5" stroke-dasharray="3 5"/>
+    <text class="k" x="752" y="329" font-size="11" fill="#9DAAB3" text-anchor="middle">NEXT</text>
+  </g>
+  <g opacity="0.62">
+    <rect x="64" y="402" width="772" height="118" rx="18" fill="#F3EFE9" stroke="#9DAAB3" stroke-width="2" stroke-dasharray="3 6"/>
+    <rect x="86" y="428" width="6" height="66" rx="3" class="s300"/>
+    <circle cx="128" cy="461" r="20" fill="none" stroke="#9DAAB3" stroke-width="2"/>
+    <text class="h" x="128" y="467" font-size="16" fill="#33474F" text-anchor="middle">03</text>
+    <text class="k" x="168" y="442" font-size="12" fill="#9DAAB3">AGENTS</text>
+    <text class="h" x="168" y="470" font-size="22" fill="#1B2A33">Keepvidya Flows</text>
+    <text class="b" x="168" y="496" font-size="15" fill="#5b6970">Agentic workflows that act on your knowledge</text>
+    <rect x="700" y="446" width="104" height="30" rx="15" fill="none" stroke="#9DAAB3" stroke-width="1.5" stroke-dasharray="3 5"/>
+    <text class="k" x="752" y="465" font-size="11" fill="#9DAAB3" text-anchor="middle">NEXT</text>
+  </g>
+  <g>
+    <rect x="64" y="538" width="772" height="118" rx="18" fill="#FBF8F3" stroke="#E2D8CA" stroke-width="2"/>
+    <rect x="86" y="564" width="6" height="66" rx="3" class="cop"/>
+    <circle cx="128" cy="597" r="20" fill="#1B2A33"/>
+    <text class="h" x="128" y="603" font-size="16" fill="#FBF8F3" text-anchor="middle">02</text>
+    <text class="k" x="168" y="578" font-size="12" fill="#C0703C">UNDERSTANDING</text>
+    <text class="h" x="168" y="606" font-size="22" fill="#1B2A33">Knovex</text>
+    <text class="b" x="168" y="632" font-size="15" fill="#5b6970">Chat, summarize, web search &amp; Learn Mode</text>
+    <rect x="700" y="582" width="104" height="30" rx="15" fill="#C0703C"/>
+    <text class="k" x="752" y="601" font-size="11" fill="#FBF8F3" text-anchor="middle">LIVE</text>
+  </g>
+  <g>
+    <rect x="64" y="674" width="772" height="118" rx="18" fill="#FBF8F3" stroke="#E2D8CA" stroke-width="2"/>
+    <rect x="86" y="700" width="6" height="66" rx="3" class="cop"/>
+    <circle cx="128" cy="733" r="20" fill="#1B2A33"/>
+    <text class="h" x="128" y="739" font-size="16" fill="#FBF8F3" text-anchor="middle">01</text>
+    <text class="k" x="168" y="714" font-size="12" fill="#C0703C">KNOWLEDGE</text>
+    <text class="h" x="168" y="742" font-size="22" fill="#1B2A33">DOCNEST</text>
+    <text class="b" x="168" y="768" font-size="15" fill="#5b6970">Any document &#8594; portable, structured knowledge</text>
+    <rect x="700" y="718" width="104" height="30" rx="15" fill="#C0703C"/>
+    <text class="k" x="752" y="737" font-size="11" fill="#FBF8F3" text-anchor="middle">LIVE</text>
+  </g>
+  <g>
+    <rect x="64" y="810" width="772" height="92" rx="18" fill="#1B2A33"/>
+    <text class="k" x="96" y="846" font-size="13" fill="#C0703C">LOCAL-FIRST FOUNDATION</text>
+    <text class="b" x="96" y="876" font-size="16" fill="#cdd6da">Your machine &#183; your data &#183; nothing leaves unless you allow it</text>
+  </g>
+  <line x1="64" y1="958" x2="836" y2="958" stroke="#E2D8CA" stroke-width="1.5"/>
+  <text class="h" x="64" y="1000" font-size="19" fill="#1B2A33">Keepvidya &#8212; <tspan fill="#9DAAB3">keep</tspan> your <tspan fill="#C0703C">vidya (knowledge).</tspan></text>
+  <g transform="translate(64,1040)">
+    <circle cx="8" cy="-4" r="7" fill="#C0703C"/>
+    <text class="b" x="24" y="0" font-size="14" fill="#5b6970">Live today</text>
+    <circle cx="150" cy="-4" r="7" fill="none" stroke="#9DAAB3" stroke-width="1.5" stroke-dasharray="2 3"/>
+    <text class="b" x="166" y="0" font-size="14" fill="#5b6970">On the roadmap</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 200" width="740" height="200" role="img" aria-label="KEEPVIDYA logo — dark">
+  <title>KEEPVIDYA logo (dark)</title>
+  <desc>Stacked stones with a copper spark on top, beside the wordmark KEEPVIDYA, for dark backgrounds.</desc>
+  <style>
+    .wm{font-family:"Poppins","Segoe UI",system-ui,sans-serif;font-weight:600;letter-spacing:8px;fill:#F3EEE7;}
+    .tg{font-family:"Poppins","Segoe UI",system-ui,sans-serif;font-weight:600;letter-spacing:5.5px;fill:#7E8E96;}
+  </style>
+  <g transform="translate(42,40)">
+    <rect x="23" y="92" width="74" height="20" rx="10" fill="#F3EEE7"/>
+    <rect x="29" y="68" width="60" height="19" rx="9.5" fill="#B4C0C5"/>
+    <rect x="35" y="45" width="48" height="18" rx="9" fill="#F3EEE7"/>
+    <rect x="41" y="23" width="36" height="17" rx="8.5" fill="#B4C0C5"/>
+    <rect x="46" y="3"  width="26" height="15" rx="7.5" fill="#D98E5A"/>
+  </g>
+  <text class="wm" x="212" y="106" font-size="50">KEEPVIDYA</text>
+  <text class="tg" x="214" y="134" font-size="12.5">LOCAL-FIRST&#160;&#160;AI&#160;&#160;PLATFORM</text>
+</svg>

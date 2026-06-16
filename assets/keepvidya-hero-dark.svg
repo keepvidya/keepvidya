@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="KEEPVIDYA — Own your intelligence (dark)">
+  <title>KEEPVIDYA hero — Own your intelligence (dark)</title>
+  <rect width="1200" height="630" fill="#121D23"/>
+  <g>
+    <rect x="552" y="150" width="96" height="22" rx="11" fill="#F3EEE7"/>
+    <rect x="560" y="125" width="80" height="21" rx="10.5" fill="#B4C0C5"/>
+    <rect x="569" y="101" width="62" height="19" rx="9.5" fill="#F3EEE7"/>
+    <rect x="577" y="79"  width="46" height="17" rx="8.5" fill="#B4C0C5"/>
+    <rect x="584" y="58"  width="32" height="15" rx="7.5" fill="#D98E5A"/>
+  </g>
+  <text x="600" y="238" text-anchor="middle" font-family="'Poppins','Segoe UI',system-ui,sans-serif" font-weight="600" letter-spacing="8" font-size="40" fill="#F3EEE7">KEEPVIDYA</text>
+  <text x="600" y="372" text-anchor="middle" font-family="'Poppins','Segoe UI',system-ui,sans-serif" font-weight="600" font-size="86" fill="#F3EEE7">Own your <tspan fill="#D98E5A">intelligence.</tspan></text>
+  <text x="600" y="432" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-weight="400" font-size="23" fill="#9DAAB3">Keep your knowledge — local-first AI on your own machine.</text>
+  <rect x="566" y="470" width="68" height="4" rx="2" fill="#D98E5A"/>
+</svg>
