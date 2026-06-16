@@ -11,15 +11,15 @@
 
 [![local-first](https://img.shields.io/badge/local--first-1B2A33?style=flat-square)](#why-local-first)
 [![private by default](https://img.shields.io/badge/private_by_default-C0703C?style=flat-square)](#why-local-first)
-[![runs offline](https://img.shields.io/badge/runs_offline-1B2A33?style=flat-square)](#-knovex--then-the-app)
+[![runs offline](https://img.shields.io/badge/runs_offline-1B2A33?style=flat-square)](#knovex--then-the-app)
 [![open format · .udf](https://img.shields.io/badge/open_format-.udf-C0703C?style=flat-square)](https://github.com/tailorgunjan93/udf-spec)
 [![DOCNEST · MIT](https://img.shields.io/badge/DOCNEST-MIT-1B2A33?style=flat-square)](https://github.com/tailorgunjan93/docnest)
 [![email](https://img.shields.io/badge/founder@keepvidya.com-C0703C?style=flat-square&logo=maildotru&logoColor=white)](mailto:founder@keepvidya.com)
 
 [Why local-first](#why-local-first) ·
-[DOCNEST](#-docnest--first-the-engine) ·
+[DOCNEST](#docnest--first-the-engine) ·
 [UDF](#-udf--the-format-you-own) ·
-[Knovex](#-knovex--then-the-app) ·
+[Knovex](#knovex--then-the-app) ·
 [DocNest .NET](#-docnest-net--the-engine-for-c) ·
 [The platform](#the-platform--four-layers-one-foundation) ·
 [Writing](#-writing--the-blog)
@@ -117,7 +117,9 @@ The defensible idea was never "AI." It's **local-first**: the private alternativ
 Four capabilities sit on a single local-first foundation. We **lead with what's live and mark the future as the future** — copper is shipped; muted slate is the roadmap.
 
 <div align="center">
-<img src="assets/keepvidya-platform-map.svg" alt="Keepvidya platform map — Knowledge (DOCNEST) and Understanding (Knovex) are live; Agents (Keepvidya Flows) and Models (Keepvidya Core) are next, all on a local-first foundation" width="520" />
+<img src="assets/keepvidya-platform-map.svg" alt="Diagram: the Keepvidya platform — Knowledge (DOCNEST) and Understanding (Knovex) are live in copper; Agents (Keepvidya Flows) and Models (Keepvidya Core) are roadmap in muted slate; all four sit on one local-first foundation." width="520" />
+<br/>
+<sub>Copper = live · muted slate = roadmap.</sub>
 </div>
 
 | Layer | Product | What it does | Status |
@@ -144,7 +146,14 @@ Long-form on how this is built and why it matters. Profile: **[Gunjan Tailor on 
 
 ---
 
-> **A quick note — "Gunjan" is becoming Keepvidya.** These products were built by **Gunjan Tailor** ([@tailorgunjan93](https://github.com/tailorgunjan93)) and are consolidating under the **Keepvidya** organization. Repos still live under `tailorgunjan93/*` during the migration — every link above points to its real, working home.
+<details>
+<summary><strong>A quick note — "Gunjan" is becoming Keepvidya.</strong></summary>
+
+<br/>
+
+These products were built by **Gunjan Tailor** ([@tailorgunjan93](https://github.com/tailorgunjan93)) and are consolidating under the **Keepvidya** organization. Repos still live under `tailorgunjan93/*` during the migration — every link above points to its real, working home.
+
+</details>
 
 ---
 
